@@ -1,0 +1,3 @@
+C:/Users/03now/CLionProjects/mes_wlasciwy/cmake-build-debug/CMakeFiles/mes_wlasciwy.dir
+C:/Users/03now/CLionProjects/mes_wlasciwy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/03now/CLionProjects/mes_wlasciwy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
